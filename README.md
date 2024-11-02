@@ -10,7 +10,7 @@
 ### Team Members
 - Team Lead: KRISHNA AJITH - Department of Computer Science,CUSAT
 - Member 2: ALINA GEORGE - Department of Computer Science,CUSAT
-- Member 3: Mariya Jyothy - Department of Computer Science,CUSAT
+- Member 3: MARIYA JYOTHY - Department of Computer Science,CUSAT
 
 ### Project Description
 [2-3 lines about what your project does]
