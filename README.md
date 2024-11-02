@@ -1,16 +1,16 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# VIRTUAL WALKMAN 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: THREE BUGS
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: KRISHNA AJITH - Department of Computer Science,CUSAT
+- Member 2: ALINA GEORGE - Department of Computer Science,CUSAT
+- Member 3: Mariya Jyothy - Department of Computer Science,CUSAT
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -24,15 +24,11 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
+- Languages Used:Jvascript,HTML,CSS
+- Frameworks Used:Frameworks Free
+- Libraries Used:No 
 - [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
