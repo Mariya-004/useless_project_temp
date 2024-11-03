@@ -30,13 +30,8 @@ For Software:
 - [Tools used]
 
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
 # Run
-[commands]
+To run the Virtual Walkman project, simply open the project folder in Visual Studio Code, install the Live Server extension, and launch the application by right-clicking on your HTML file and selecting "Open with Live Server." This will start a local development server, allowing you to view and interact with your project in the browser.
 
 ### Project Documentation
 For Software:
@@ -54,41 +49,16 @@ For Software:
 [Playing Window](https://drive.google.com/file/d/1j9VSOpD6Gpz5R5AxSr9ugE_JcVG-Epu0/view?usp=sharing)
 *This shows the playing status of selected song.*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 [Demonstration](https://drive.google.com/file/d/1xkmoKPxExRp4ifCK-_do5yMTEzRmL3Rd/view?usp=sharing)
 *Experience a blast from the past with a modern twist! Here's a sneak peek of our retro-styled Virtual Walkman app, bringing cassette nostalgia to life with digital tunes. Watch as the mixtapes play, rewind, and fast-forward – all while connected to Spotify!📼✨*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [ALINA GEORGE]: [EQUAL CONTRIBUTION FOR DOCUMENTATION AND MODEL DEVELOPMENT]
+- [KRISHNA AJITH]: [EQUAL CONTRIBUTION FOR DOCUMENTATION AND MODEL DEVELOPMENT]
+- [MARIYA JYOTHY]: [EQUAL CONTRIBUTION FOR DOCUMENTATION AND MODEL DEVELOPMENT]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
