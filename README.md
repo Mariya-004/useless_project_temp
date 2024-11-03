@@ -41,7 +41,7 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots
 [Login Page](https://drive.google.com/file/d/1RsZOTW5deo1bDdb8Uz51FEk2aWU8uXt0/view?usp=sharing)
 *This is how the login page looks.*
 
