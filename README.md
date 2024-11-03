@@ -13,7 +13,7 @@
 - Member 3: MARIYA JYOTHY - Department of Computer Science,CUSAT
 
 ### Project Description
-[2-3 lines about what your project does]
+The Virtual Walkman is a nostalgic, web-based music player inspired by the classic portable cassette players of the 80s 📼📼. With Spotify integration designed to look and feel like a retro Walkman 🎧💿, users can search for their favorite songs and listen to music previews, all within a fun, retro-themed environment.
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
