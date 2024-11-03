@@ -56,9 +56,9 @@ For Software:
 
 
 ## Team Contributions
-- ALINA GEORGE: [EQUAL CONTRIBUTION FOR DOCUMENTATION AND MODEL DEVELOPMENT]
-- KRISHNA AJITH: [EQUAL CONTRIBUTION FOR DOCUMENTATION AND MODEL DEVELOPMENT]
-- MARIYA JYOTHY: [EQUAL CONTRIBUTION FOR DOCUMENTATION AND MODEL DEVELOPMENT]
+- ALINA GEORGE: equal contribution for project and model development.
+- KRISHNA AJITH: equal contribution for project and model development.
+- MARIYA JYOTHY: equal contribution for project and model development.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
