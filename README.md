@@ -42,14 +42,17 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+[Login Page](https://drive.google.com/file/d/1RsZOTW5deo1bDdb8Uz51FEk2aWU8uXt0/view?usp=sharing)
+*This is how the login page looks.*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+[Search Window](https://drive.google.com/file/d/1JfnJreEqAPca4CZbMT8j6cEg50UUjEnW/view?usp=sharing)
+*In this window you can search for your favorite track*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+[Result Window](https://drive.google.com/file/d/11-JUzzNuyzx7jlITrVw-VznNGRC_dF1Q/view?usp=sharing)
+*This is how the search results appear*
+
+[Playing Window](https://drive.google.com/file/d/1j9VSOpD6Gpz5R5AxSr9ugE_JcVG-Epu0/view?usp=sharing)
+*This show the playing status of selected song*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
