@@ -46,13 +46,13 @@ For Software:
 *This is how the login page looks.*
 
 [Search Window](https://drive.google.com/file/d/1JfnJreEqAPca4CZbMT8j6cEg50UUjEnW/view?usp=sharing)
-*In this window you can search for your favorite track*
+*In this window you can search for your favorite track.*
 
 [Result Window](https://drive.google.com/file/d/11-JUzzNuyzx7jlITrVw-VznNGRC_dF1Q/view?usp=sharing)
-*This is how the search results appear*
+*This is how the search results appears.*
 
 [Playing Window](https://drive.google.com/file/d/1j9VSOpD6Gpz5R5AxSr9ugE_JcVG-Epu0/view?usp=sharing)
-*This show the playing status of selected song*
+*This shows the playing status of selected song.*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
