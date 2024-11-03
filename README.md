@@ -36,7 +36,7 @@ To run the Virtual Walkman project, simply open the project folder in Visual Stu
 # Project Documentation
 For Software:
 
-# Screenshots
+### Screenshots
 [Login Page](https://drive.google.com/file/d/1RsZOTW5deo1bDdb8Uz51FEk2aWU8uXt0/view?usp=sharing)
 *This is how the login page looks.*
 
