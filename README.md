@@ -25,8 +25,8 @@ This website provides users with a nostalgic interface that resembles a Walkman,
 ### Technologies/Components Used
 For Software:
 - Languages Used:Javascript,HTML,CSS
-- Frameworks Used:Frameworks Free
-- Libraries Used:No 
+- Frameworks Used:Frameworks free
+- Libraries Used:No Libraries used 
 
 
 
