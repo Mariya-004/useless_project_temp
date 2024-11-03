@@ -33,7 +33,7 @@ For Software:
 # Run
 To run the Virtual Walkman project, simply open the project folder in Visual Studio Code, install the Live Server extension, and launch the application by right-clicking on your HTML file and selecting "Open with Live Server." This will start a local development server, allowing you to view and interact with your project in the browser.
 
-### Project Documentation
+# Project Documentation
 For Software:
 
 # Screenshots
