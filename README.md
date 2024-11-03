@@ -79,8 +79,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[Demonstration](https://drive.google.com/file/d/1xkmoKPxExRp4ifCK-_do5yMTEzRmL3Rd/view?usp=sharing)
+*Experience a blast from the past with a modern twist! Here's a sneak peek of our retro-styled Virtual Walkman app, bringing cassette nostalgia to life with digital tunes. Watch as the mixtapes play, rewind, and fast-forward – all while connected to Spotify!📼✨*
 
 # Additional Demos
 [Add any extra demo materials/links]
