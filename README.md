@@ -15,11 +15,11 @@
 ### Project Description
 The Virtual Walkman is a nostalgic, web-based music player inspired by the classic portable cassette players of the 80s 📼📼. With Spotify integration designed to look and feel like a retro Walkman 🎧💿, users can search for their favorite songs and listen to music previews, all within a fun, retro-themed environment.
 
-### The Problem (that doesn't exist)
-[Create a retro-inspired virtual Walkman that integrates with Spotify, bringing back the nostalgic experience of cassette players in a digital music streaming era.]
+### The Problem
+Create a retro-inspired virtual Walkman that integrates with Spotify, bringing back the nostalgic experience of cassette players in a digital music streaming era.
 
-### The Solution (that nobody asked for)
-[This website provides users with a nostalgic interface that resembles a Walkman, complete with interactive cassette reels, playback buttons, and a cassette window showing the current song. Using Spotify's API, users can play their favorite songs or playlists with the aesthetics of a cassette player, bringing back the vintage charm of mixtapes in a digital format. The Virtual Walkman will also allow users to create and share “virtual mixtapes” with friends, enhancing the personal experience of sharing music.]
+### The Solution
+This website provides users with a nostalgic interface that resembles a Walkman, complete with interactive cassette reels, playback buttons, and a cassette window showing the current song. Using Spotify's API, users can play their favorite songs or playlists with the aesthetics of a cassette player, bringing back the vintage charm of mixtapes in a digital format. The Virtual Walkman will also allow users to create and share “virtual mixtapes” with friends, enhancing the personal experience of sharing music.
 
 ## Technical Details
 ### Technologies/Components Used
