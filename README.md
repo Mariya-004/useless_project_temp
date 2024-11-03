@@ -27,7 +27,7 @@ For Software:
 - Languages Used:Javascript,HTML,CSS
 - Frameworks Used:Frameworks Free
 - Libraries Used:No 
-- [Tools used]
+
 
 
 # Run
