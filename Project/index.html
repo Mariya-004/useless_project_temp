@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Walkman</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <button id="loginBtn">
+            <div class="cassette-icon"></div> <!-- Cassette shape -->
+            Login to Spotify
+        </button>
+        <div class="container player" style="display: none;">
+            <div class="display">Now Playing</div>
+
+            <!-- Cassette Window with Reels -->
+            <div class="cassette-window">
+                <div class="reel left-reel"></div>
+                <div class="reel right-reel"></div>
+            </div>
+
+            <!-- Track Information -->
+            <div class="track-info">
+                <h2 id="trackName">Track Name</h2>
+                <h3 id="artistName">Artist Name</h3>
+                <img id="albumArt" src="" alt="Album Art" />
+            </div>
+
+            <!-- Audio Player Controls -->
+            <audio id="audioPlayer" controls>
+                <source id="audioSource" src="">
+                Your browser does not support the audio element.
+            </audio>
+
+            <!-- Search and Track List -->
+            <input type="text" id="search" placeholder="Search for tracks..." />
+            <button id="searchBtn">Search</button>
+            <div id="trackList"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
